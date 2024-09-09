@@ -1,10 +1,11 @@
 import './App.css'
+import Boxes from './components/Boxes'
 
 function App() {
 
   return (
     <main>
-      <h1>Boxes will go here</h1>
+      <Boxes />
     </main>
   )
 }
